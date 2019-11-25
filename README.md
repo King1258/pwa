@@ -5,9 +5,6 @@ Turns Flarum into a basic progressive web app. If a user loses connection, an of
 This is what you see and how to install in Chrome (on a desktop). Each browser and device will handle this differently.
 ![](https://i.ibb.co/H4PBm8p/Screenshot-2019-09-28-at-5-27-26-AM.png)
 
-Here is the experience after it is installed on a Chromebook:
-https://vimeo.com/362968169
-
 ## Install instructions
 
 #### Pre-install:
@@ -27,4 +24,3 @@ https://vimeo.com/362968169
 #### Links:
 - Github: [https://github.com/zerosonesfun/pwa](https://github.com/zerosonesfun/pwa)
 - Packagist: [https://packagist.org/packages/zerosonesfun/pwa](https://packagist.org/packages/zerosonesfun/pwa)
-- Me: [https://wilcosky.com](https://wilcosky.com)
