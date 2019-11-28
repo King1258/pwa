@@ -2,6 +2,12 @@
     "name": "zerosonesfun/pwa",
     "description": "A Progressive Web App extension.",
     "type": "flarum-extension",
+    "authors": [
+        {
+            "name": "Billy Wilcosky",
+            "role": "Creator"
+        }
+    ],
     "license": "MIT",
     "require": {
         "flarum/core": ">=0.1.0-beta.8 <0.1.0-beta.12"
